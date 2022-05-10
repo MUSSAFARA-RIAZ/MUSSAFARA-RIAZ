@@ -1,19 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mussafara Riaz</h1>
+<h3 align="center">Software Engineering Student 🥇</h3>
 
 
 <p> 🔭 I’m currently working on React <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="mussafarariaz" height="30" width="40" />
   <p> 📫 How to reach me mussafarariaz@gmail.com</p>
   <p>- 💬 Ask me about Algorithm and Latest Technologies 😅</p>
-  <p> Pronouns: She/her 😄</p>
+  <p>  😄 Pronouns: She/her  😄</p>
   <p>⚡ Fun fact: Wait a minute! Who are you 😄</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mussafarariaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mussafarariaz" height="30" width="40" /></a>
-<a href="https://twitter.com/mussafarariaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mussafarariaz" height="30" width="40" /></a>
+
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mussafara-riaz-a38012213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mussafara-riaz-a38012213/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mussafira.ahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mussafira.ahmed/" height="30" width="40" /></a>
-<a href="https://medium.com/@mussafara-riaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mussafara-riaz" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/c/https://youtu.be/zwueplwhohe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/zwueplwhohe" height="30" width="40" /></a>
 </p>
 

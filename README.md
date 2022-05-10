@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mussafara Riaz</h1>
-<h3 align="center">Software Engineering Student 🥇</h3>
+<h1 align="center">Hi 👋, I'm Mussafara Riaz 👧</h1>
+<h3 align="center">Software Engineering Student 👩‍💻</h3>
 
 
 <p> 🔭 I’m currently working on React <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="mussafarariaz" height="30" width="40" />

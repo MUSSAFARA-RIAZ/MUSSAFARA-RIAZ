@@ -3,7 +3,7 @@
 
 
 <p> 🔭 I’m currently working on React <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="mussafarariaz" height="30" width="40" />
-  <p> 📫 How to reach me mussafarariaz@gmail.com</p>
+  <p> 📫 <a href="mailto : mussafarariaz@gmail.com" color:"black">Myemail</a></p>
   <p>- 💬 Ask me about Algorithm and Latest Technologies 😅</p>
   <p>  😄 Pronouns: She/her  😄</p>
   <p>⚡ Fun fact: Wait a minute! Who are you 😄</p>

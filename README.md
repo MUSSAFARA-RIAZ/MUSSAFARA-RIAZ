@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mussafara Riaz 👧</h1>
 <h3 align="center">Software Engineering Student 👩‍💻</h3>
-<h2>Glad to see you here</h2>
+<h2  align="center">Glad to see you here  😊 </h2>
 <p align="center">I'm Front end developer love to do designing , programming , reading and writing</p>
 
 

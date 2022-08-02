@@ -1,12 +1,26 @@
 <h1 align="center">Hi 👋, I'm Mussafara Riaz 👧</h1>
 <h3 align="center">Software Engineering Student 👩‍💻</h3>
+<h2>Glad to see you here</h2>
+<p align="center">I'm Front end developer love to do designing , programming , reading and writing</p>
 
 
+<h1>Talking about my personal stuff 🚀</h1>
 <p> 🔭 I’m currently working on React <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="mussafarariaz" height="30" width="40" />
-  <p> 📫 <a href="mailto : mussafarariaz@gmail.com" color:"black">Myemail</a></p>
+ 
   <p>- 💬 Ask me about Algorithm and Latest Technologies 😅</p>
+  <p>  🏃  I'm looking to collaborate on open source projects </p>
   <p>  😄 Pronouns: She/her  😄</p>
+  
   <p>⚡ Fun fact: Wait a minute! Who are you 😄</p>
+<h1>Goals for 2022 🤞</h1>
+<p>Become a full stack developer and start learn mobile application development</p>
+<h1>Area of Interest 🖥️</h1>
+<ul>
+<li>Web development</li>
+<li>Mobile Application Development</li>
+<li>Machine Learning 🧠</li>
+
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

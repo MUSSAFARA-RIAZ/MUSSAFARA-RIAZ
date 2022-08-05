@@ -1,3 +1,7 @@
+body{
+background-color:black;
+color:white;
+}
 <h1 align="center">Hi 👋, I'm Mussafara Riaz 👧</h1>
 <h3 align="center">Software Engineering Student 👩‍💻</h3>
 <h2  align="center">Glad to see you here  😊 </h2>

@@ -3,6 +3,7 @@
 <h3 align="center">Software Engineering Student 👩‍💻</h3>
 <h2  align="center">Glad to see you here  😊 </h2>
 <p align="center">I'm Front end developer love to do designing , programming , reading and writing</p>
+<img src="https://www.google.com/search?q=programming+images&tbm=isch&ved=2ahUKEwigqJq5_Nr5AhWNx4UKHcoBC0MQ2-cCegQIABAA&oq=programm&gs_lcp=CgNpbWcQARgBMgQIIxAnMgQIABBDMgQIABBDMgcIABCxAxBDMgQIABBDMgQIABBDMgcIABCxAxBDMgcIABCxAxBDMgQIABBDMgQIABBDOgcIIxDqAhAnOgsIABCABBCxAxCDAToFCAAQgAQ6CAgAEIAEELEDOgoIABCxAxCDARBDOgYIABAKEBhQ5AVY3y1g4jZoB3AAeACAAYICiAGnFpIBBjAuMy4xMJgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=xbwDY-CxBo2PlwTKg6yYBA&bih=526&biw=1079&hl=en#imgrc=zTN8fE0ZP9zCiM" align="right" width="400"/ >
 
 
 <h1>Talking about my personal stuff 🚀</h1>

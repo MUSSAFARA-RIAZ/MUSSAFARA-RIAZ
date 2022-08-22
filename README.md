@@ -24,9 +24,7 @@
 <li>Machine Learning 🧠</li>
 
 </ul>
-<h1>Github SkyLine</h1>
-<video>
-</video>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

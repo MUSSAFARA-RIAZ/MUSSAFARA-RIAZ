@@ -1,12 +1,13 @@
-![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)![GitHub-Mark-Dark](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only)
+
 <h1 align="center" >Hi 👋, I'm Mussafara Riaz 👧</h1>
 <h3 align="center">Software Engineering Student 👩‍💻</h3>
 <h2  align="center">Glad to see you here  😊 </h2>
 <p align="center">I'm Front end developer love to do designing , programming , reading and writing</p>
-<img src="https://www.google.com/search?q=programming+images&tbm=isch&ved=2ahUKEwigqJq5_Nr5AhWNx4UKHcoBC0MQ2-cCegQIABAA&oq=programm&gs_lcp=CgNpbWcQARgBMgQIIxAnMgQIABBDMgQIABBDMgcIABCxAxBDMgQIABBDMgQIABBDMgcIABCxAxBDMgcIABCxAxBDMgQIABBDMgQIABBDOgcIIxDqAhAnOgsIABCABBCxAxCDAToFCAAQgAQ6CAgAEIAEELEDOgoIABCxAxCDARBDOgYIABAKEBhQ5AVY3y1g4jZoB3AAeACAAYICiAGnFpIBBjAuMy4xMJgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=xbwDY-CxBo2PlwTKg6yYBA&bih=526&biw=1079&hl=en#imgrc=zTN8fE0ZP9zCiM" align="right" width="400"/ >
+
 
 
 <h1>Talking about my personal stuff 🚀</h1>
+<img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1661189407~exp=1661190007~hmac=2f56985ac97dc2f009895e46404bfa5bd71fdcff63a15f4dbbbd8207ffda3cd3" align="right" width="400"/ >
 <p> 🔭 I’m currently working on React <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="mussafarariaz" height="30" width="40" />
  
   <p>- 💬 Ask me about Algorithm and Latest Technologies 😅</p>

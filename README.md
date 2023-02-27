@@ -6,7 +6,7 @@
 
  <a href="https://ibb.co/PGHKpDp"><img src="https://i.ibb.co/b59Thbh/Mussafara-Riaz-2.png" alt="Mussafara-Riaz-2" border="0"></a>
 <h1>Talking about my personal stuff 🚀</h1>
-<img src="https://i.ibb.co/p0LMc4J/Fotor-AI-2.png" align="right" width="350"/ >
+<img src="https://i.ibb.co/vcqtXF1/lap1.jpg" align="right" width="350"/ >
 <p> 🔭 I’m currently working on React <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="mussafarariaz" height="30" width="40" />
  
   <p>- 💬 Ask me about Algorithm and Latest Technologies 😅</p>

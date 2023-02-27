@@ -4,9 +4,9 @@
 <h2  align="center">Glad to see you here  😊 </h2>
 <p align="center">I'm Front end developer love to do designing , programming , reading and writing</p> -->
 
- <a href="https://ibb.co/PGHKpDp"><img src="https://i.ibb.co/b59Thbh/Mussafara-Riaz-2.png" alt="Mussafara-Riaz-2" border="0" text-align:"center"></a>
+ <a href="https://ibb.co/PGHKpDp"><img src="https://i.ibb.co/b59Thbh/Mussafara-Riaz-2.png" alt="Mussafara-Riaz-2" border="0"></a>
 <h1>Talking about my personal stuff 🚀</h1>
-<img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1661189407~exp=1661190007~hmac=2f56985ac97dc2f009895e46404bfa5bd71fdcff63a15f4dbbbd8207ffda3cd3" align="right" width="350"/ >
+<img src="https://i.ibb.co/p0LMc4J/Fotor-AI-2.png" align="right" width="350"/ >
 <p> 🔭 I’m currently working on React <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="mussafarariaz" height="30" width="40" />
  
   <p>- 💬 Ask me about Algorithm and Latest Technologies 😅</p>

@@ -4,7 +4,7 @@
 <h2  align="center">Glad to see you here  😊 </h2>
 <p align="center">I'm a passionate Software Engineering student with a keen interest in web and mobile application development . I love building innovative solutions to real-world problems and collaborating with others to create impactful projects.</p> -->
 
- <a href="https://ibb.co/PGHKpDp"><img src="https://i.ibb.co/b59Thbh/Mussafara-Riaz-2.png" alt="Mussafara-Riaz-2" border="0" width="900px" height="450px" ></a>
+
 <h1>Talking about my personal stuff 🚀</h1>
 
 <p> 🔭 I’m currently working on React Native  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="mussafarariaz" height="30" width="40" />

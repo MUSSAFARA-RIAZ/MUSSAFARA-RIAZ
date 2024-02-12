@@ -2,20 +2,20 @@
 <!-- <h1 align="center" >Hi 👋, I'm Mussafara Riaz 👧</h1>
 <h3 align="center">Software Engineering Student 👩‍💻</h3>
 <h2  align="center">Glad to see you here  😊 </h2>
-<p align="center">I'm Front end developer love to do designing , programming , reading and writing</p> -->
+<p align="center">I'm a passionate Software Engineering student with a keen interest in web and mobile application development . I love building innovative solutions to real-world problems and collaborating with others to create impactful projects.</p> -->
 
  <a href="https://ibb.co/PGHKpDp"><img src="https://i.ibb.co/b59Thbh/Mussafara-Riaz-2.png" alt="Mussafara-Riaz-2" border="0" width="900px" height="450px" ></a>
 <h1>Talking about my personal stuff 🚀</h1>
-<img src="https://i.ibb.co/vcqtXF1/lap1.jpg" align="right" width="350"/ >
-<p> 🔭 I’m currently working on React <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="mussafarariaz" height="30" width="40" />
+
+<p> 🔭 I’m currently working on React Native  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="mussafarariaz" height="30" width="40" />
  
   <p>- 💬 Ask me about Algorithm and Latest Technologies 😅</p>
   <p>  🏃  I'm looking to collaborate on open source projects </p>
   <p>  😄 Pronouns: She/her  😄</p>
   
-  <p>⚡ Fun fact: Wait a minute! Who are you 😄</p>
-<h1>Goals for 2023🤞</h1>
-<p>Become a full stack developer and start learn mobile application development</p>
+  <p>⚡ Fun fact: have a notorious love for the coffee and addicted to chatgpt , ofcourse 😄</p>
+<h1>Goals for 2024🤞</h1>
+<p>Become a full stack web and Application Developer</p>
 <h1>Area of Interest 🖥️</h1>
 <ul>
 <li>Web development</li>

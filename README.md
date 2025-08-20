@@ -14,7 +14,7 @@
   <p>  😄 Pronouns: She/her  😄</p>
   
   <p>⚡ Fun fact: have a notorious love for the coffee and addicted to chatgpt , ofcourse 😄</p>
-<h1>Goals for 2024🤞</h1>
+<h1>Goals for 2025🤞</h1>
 <p>Become a full stack web and Application Developer</p>
 <h1>Area of Interest 🖥️</h1>
 <ul>

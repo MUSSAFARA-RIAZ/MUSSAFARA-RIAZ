@@ -68,12 +68,17 @@ Passionate Software Engineer specializing in <b>MERN Stack</b> (React, Node.js) 
 </p>
 
 <h2>📊 GitHub Stats</h2>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MUSSAFARA-RIAZ&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&theme=radical" alt="GitHub Stats" />
+<p align="center">
+  <a href="https://github.com/MUSSAFARA-RIAZ">
+    <img src="https://github-readme-stats.vercel.app/api?username=MUSSAFARA-RIAZ&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
+  </a>
 </p>
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MUSSAFARA-RIAZ&theme=radical" alt="GitHub Streak" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUSSAFARA-RIAZ&theme=radical" alt="GitHub Streak" />
 </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSSAFARA-RIAZ&layout=compact&theme=radical" alt="Top Languages" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSSAFARA-RIAZ&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+

@@ -2,7 +2,9 @@
 <h3 align="center">Software Engineer | MERN Stack Developer | ML & AI Enthusiast 👩‍💻</h3>
 
 <p align="center">
-Passionate Software Engineer specializing in <b>MERN Stack</b> (React, Node.js) with experience building high-performance web and mobile apps. Keen interest in scalable system design, machine learning, and AI. 🚀
+Passionate Software Engineer specializing in <b>MERN Stack</b> (React, Node.js) with experience building high-performance web and mobile apps. 
+Currently exploring <b>workflow automation & integrations using n8n</b> to build scalable, event-driven systems. 
+Keen interest in scalable system design, machine learning, and AI. 🚀
 </p>
 
 ---
@@ -28,6 +30,7 @@ Passionate Software Engineer specializing in <b>MERN Stack</b> (React, Node.js) 
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 <h2>🤖 Machine Learning & AI</h2>
@@ -40,7 +43,7 @@ Passionate Software Engineer specializing in <b>MERN Stack</b> (React, Node.js) 
 
 <h2>☕ Fun Facts</h2>
 <ul>
-  <li>Notorious love for coffee ☕</li>
+  <li>Notorious love for coffee and Tang ☕</li>
   <li>Addicted to learning & ChatGPT – <i>"Jahan Gayan, Wahi Deehan"</i></li>
 </ul>
 
